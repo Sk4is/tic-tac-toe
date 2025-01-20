@@ -10,10 +10,21 @@
     cursor: pointer;
     font-weight: bold;
     transition: background-color 0.3s;
+    box-shadow: 4px 4px 5px #24298c;
   }
   
   .square:hover {
     background-color: #ffffff;
     color: black;
+    border: 2px solid black;
+  }
+
+  .restart-btn {
+    box-shadow: 3px 3px 5px #24298c;
   }
   
+  .restart-btn:hover {
+    background-color: #ffffff;
+    color: black;
+    border: 1px solid black;
+  }

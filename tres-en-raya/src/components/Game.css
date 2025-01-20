@@ -4,6 +4,7 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: center;
+    text-shadow: 3px 3px 5px #24298c;
 }
 
 .game {
