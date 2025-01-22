@@ -11,6 +11,7 @@
     font-weight: bold;
     transition: background-color 0.3s;
     box-shadow: 4px 4px 5px #24298c;
+    color: rgb(255, 255, 255);
   }
   
   .square:hover {
